@@ -517,4 +517,4 @@ export const MINT_GEM_ABI: AbiItem[] = [
 	}
 ];
 
-export const MINT_GEM_ADDRESS = "0xfFb669D5c3A1B28Ac8fcbE789b9bf7954d962EF4";
+export const MINT_GEM_ADDRESS = "?";
